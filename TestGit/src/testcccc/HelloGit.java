@@ -1,4 +1,4 @@
-package com.rogers.test.git;
+package testcccc;
 
 public class HelloGit {
 
