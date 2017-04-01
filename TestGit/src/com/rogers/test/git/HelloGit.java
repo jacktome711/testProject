@@ -6,8 +6,6 @@ public class HelloGit {
 		
 		System.out.println("Hello there");
 		System.out.println("tggello tffffhere2");
-		System.out.println("tggello tffffhere2");
-		System.out.println("tggello tffffhere2");
 	}
 
 }
